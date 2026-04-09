@@ -30,9 +30,7 @@ I am a **Computer Engineering graduate** and an **active learner** currently mas
 ---
 
 ### 💬 Connect with Me
-*   **LinkedIn:** [linkedin.com/in/omar-alakara](http://www.linkedin.com/in/omar-alakara)
-*   **Portfolio:** [omaralakara.github.io/portfolio/](https://omaralakara.github.io/portfolio/)
-*   **Email:** omar.alakara3@gmail.com
+**LinkedIn:** [linkedin.com/in/omar-alakara](https://www.linkedin.com/in/omar-alakara/)
 
 ---
 *“Always learning, always building.”*
